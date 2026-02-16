@@ -1,2 +1,2 @@
 # Dissertation
-Reference Material for the Dissertation
+Reference Material for my Dissertation.
